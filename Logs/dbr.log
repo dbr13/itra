@@ -1,0 +1,160 @@
+open home page
+2016-06-16 07:02:51,231 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 07:02:51,419 - Home_Page - [INFO] - open_zapisatsya pass
+open home page
+2016-06-16 07:05:34,671 - Home_Page - [INFO] - open home page
+open_zapisatsya: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class='zapisatsya']"}
+  (Session info: chrome=51.0.2704.84)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.19.0-61-generic x86_64)
+
+2016-06-16 07:05:34,703 - Home_Page - [ERROR] - open_zapisatsya: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class='zapisatsya']"}
+  (Session info: chrome=51.0.2704.84)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.19.0-61-generic x86_64)
+
+open home page
+2016-06-16 07:06:54,012 - Home_Page - [INFO] - open home page
+open_zapisatsya: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class='zapisatsya']"}
+  (Session info: chrome=51.0.2704.84)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.19.0-61-generic x86_64)
+
+2016-06-16 07:06:54,041 - Home_Page - [ERROR] - open_zapisatsya: Message: no such element: Unable to locate element: {"method":"xpath","selector":".//a[@class='zapisatsya']"}
+  (Session info: chrome=51.0.2704.84)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.19.0-61-generic x86_64)
+
+open home page
+2016-06-16 08:00:25,305 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:00:25,508 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:00:25,508 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:01:43,262 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:01:43,441 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:01:43,441 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:04:27,031 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:04:27,197 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:04:27,198 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+Corse Android was selected
+2016-06-16 08:05:33,154 - Zapisatsya_Page - [INFO] - Corse Android was selected
+last_name Message: no such element: Unable to locate element: {"method":"name","selector":"your-nam"}
+  (Session info: chrome=51.0.2704.84)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.19.0-61-generic x86_64)
+
+2016-06-16 08:05:33,466 - Zapisatsya_Page - [ERROR] - last_name Message: no such element: Unable to locate element: {"method":"name","selector":"your-nam"}
+  (Session info: chrome=51.0.2704.84)
+  (Driver info: chromedriver=2.20.353124 (035346203162d32c80f1dce587c8154a1efa0c3b),platform=Linux 3.19.0-61-generic x86_64)
+
+test_get_success_msg - Failed
+2016-06-16 08:05:33,466 - Test_suite_ZapisatsyaPage - [ERROR] - test_get_success_msg - Failed
+Corse Android was selected
+2016-06-16 08:06:58,449 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:06:58,916 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success_message - 'TestSuiteZapisatsyaPage' object has no attribute 'is_element_present'
+2016-06-16 08:06:59,157 - Zapisatsya_Page - [ERROR] - Success_message - 'TestSuiteZapisatsyaPage' object has no attribute 'is_element_present'
+test_get_success_msg - Failed
+2016-06-16 08:06:59,157 - Test_suite_ZapisatsyaPage - [ERROR] - test_get_success_msg - Failed
+Corse Android was selected
+2016-06-16 08:07:38,501 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:07:38,955 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success_message - 'TestSuiteZapisatsyaPage' object has no attribute 'is_element_present'
+2016-06-16 08:07:40,741 - Zapisatsya_Page - [ERROR] - Success_message - 'TestSuiteZapisatsyaPage' object has no attribute 'is_element_present'
+test_get_success_msg - Failed
+2016-06-16 08:07:40,742 - Test_suite_ZapisatsyaPage - [ERROR] - test_get_success_msg - Failed
+Corse Android was selected
+2016-06-16 08:14:00,272 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:14:00,728 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+2016-06-16 08:14:02,735 - Zapisatsya_Page - [INFO] - Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+test_get_success_msg - Passed
+2016-06-16 08:14:02,735 - Test_suite_ZapisatsyaPage - [INFO] - test_get_success_msg - Passed
+Corse Android was selected
+2016-06-16 08:14:35,825 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:14:36,296 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+2016-06-16 08:14:38,273 - Zapisatsya_Page - [INFO] - Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+test_get_success_msg - Passed
+2016-06-16 08:14:38,273 - Test_suite_ZapisatsyaPage - [INFO] - test_get_success_msg - Passed
+open home page
+2016-06-16 08:38:52,968 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:38:53,124 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:38:53,124 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:40:46,394 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:40:46,526 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:40:46,527 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:41:08,744 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:41:08,892 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:41:08,892 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:42:11,718 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:42:11,938 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:42:11,938 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:43:20,183 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:43:20,421 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:43:20,422 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+open home page
+2016-06-16 08:44:13,807 - Home_Page - [INFO] - open home page
+open_zapisatsya pass
+2016-06-16 08:44:13,967 - Home_Page - [INFO] - open_zapisatsya pass
+test_button_zapisatsya - Passed
+2016-06-16 08:44:13,967 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+Corse Android was selected
+2016-06-16 08:46:57,275 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:46:57,671 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+2016-06-16 08:46:59,358 - Zapisatsya_Page - [INFO] - Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+test_get_success_msg - Passed
+2016-06-16 08:46:59,358 - Test_suite_ZapisatsyaPage - [INFO] - test_get_success_msg - Passed
+Corse Android was selected
+2016-06-16 08:49:06,799 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:49:07,164 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+2016-06-16 08:49:08,993 - Zapisatsya_Page - [INFO] - Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+test_get_success_msg - Passed
+2016-06-16 08:49:08,993 - Test_suite_ZapisatsyaPage - [INFO] - test_get_success_msg - Passed
+Corse Android was selected
+2016-06-16 08:50:17,848 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 08:50:18,186 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+2016-06-16 08:50:19,882 - Zapisatsya_Page - [INFO] - Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+test_get_success_msg - Passed
+2016-06-16 08:50:19,882 - Test_suite_ZapisatsyaPage - [INFO] - test_get_success_msg - Passed
+open home page
+2016-06-16 09:54:49,084 - Home_Page - [INFO] - open home page
+open_zapisatsya
+2016-06-16 09:54:49,275 - Home_Page - [INFO] - open_zapisatsya
+test_button_zapisatsya - Passed
+2016-06-16 09:54:49,275 - Test_suite_HomePage - [INFO] - test_button_zapisatsya - Passed
+Corse Android was selected
+2016-06-16 09:54:55,678 - Zapisatsya_Page - [INFO] - Corse Android was selected
+Lastname DDD was typed
+2016-06-16 09:54:56,067 - Zapisatsya_Page - [INFO] - Lastname DDD was typed
+Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+2016-06-16 09:54:57,928 - Zapisatsya_Page - [INFO] - Success message is: Ваше сообщение было отправлено успешно. Спасибо.
+test_get_success_msg - Passed
+2016-06-16 09:54:57,928 - Test_suite_ZapisatsyaPage - [INFO] - test_get_success_msg - Passed
